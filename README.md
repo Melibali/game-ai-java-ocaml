@@ -1,4 +1,4 @@
-# Bali AI (OCaml)
+# Player AI (OCaml)
 
 ## Description
 
