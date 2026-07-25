@@ -12,7 +12,7 @@ This project was completed as part of a Functional Programming course.
 
 ## Features
 
-- AI player for Bali
+- AI player
 - Board parsing
 - Move generation
 - Jump calculation
