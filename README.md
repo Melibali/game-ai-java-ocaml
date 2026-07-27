@@ -49,4 +49,4 @@ This project was completed as part of a Functional Programming course.
 
 ## Author
 
-Melissa Bali
+Melissa
