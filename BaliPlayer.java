@@ -16,9 +16,9 @@ import java.util.HashMap;
 
 public class BaliPlayer extends AI
 {		
-	public final static String ocaml_interpreter = "/home/melissa-bali/.opam/5.2.1/bin/ocaml";
-	public final static String ocaml_program = "82504825.ml";
-	public final static String player_name = "AIMelissa_BALI";
+	public final static String ocaml_interpreter = "METTRE LE CHEMIN VERS L'INTERPRETEUR OCAML ICI";
+	public final static String ocaml_program = "Player.ml";
+	public final static String player_name = "AI_PLAYER";
 
 	protected int player = -1; // player_index
 	
